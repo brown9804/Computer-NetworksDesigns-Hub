@@ -10,7 +10,7 @@ Here you can find design/simulations of different aspects of computer networks.
 
 [2]Download GNS3 https://www.gns3.com/software/download
 
-## Projects:
+
 
 
 
