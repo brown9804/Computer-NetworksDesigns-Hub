@@ -7,19 +7,14 @@ Last updated: 2021-01-14
 
 ------------------------------------------
 
-<div align="center">
-  <h3 style="color: #4CAF50;">Total Visitors</h3>
-  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
-</div>
-
 > Here you can find design/simulations of different aspects of computer networks.
 
 ## Required: 
 - [Download Wireshark](https://1.eu.dl.wireshark.org/osx/Wireshark%203.4.2%20Intel%2064.dmg)
 - [Download GNS3](https://www.gns3.com/software/download)
 
-
-
-
-
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
 
